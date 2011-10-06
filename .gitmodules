@@ -1,3 +1,18 @@
 [submodule "build-core"]
 	path = build-core
 	url = git://github.com/kiesel/xp-build-system.git
+[submodule "plugin-validate"]
+	path = plugin-validate
+	url = git://github.com/kiesel/build-plugin-validate.git
+[submodule "plugin-unittest"]
+	path = plugin-unittest
+	url = git://github.com/kiesel/build-plugin-unittest.git
+[submodule "plugin-xcc"]
+	path = plugin-xcc
+	url = git://github.com/kiesel/build-plugin-xcc.git
+[submodule "plugin-core"]
+	path = plugin-core
+	url = git://github.com/kiesel/build-plugin-core.git
+[submodule "plugin-apidoc"]
+	path = plugin-apidoc
+	url = git://github.com/kiesel/build-plugin-apidoc.git
