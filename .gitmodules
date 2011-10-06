@@ -1,0 +1,3 @@
+[submodule "build-core"]
+	path = build-core
+	url = git://github.com/kiesel/xp-build-system.git
