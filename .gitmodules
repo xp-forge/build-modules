@@ -16,3 +16,6 @@
 [submodule "plugin-apidoc"]
 	path = plugin-apidoc
 	url = git://github.com/xp-forge/build-plugin-apidoc.git
+[submodule "plugin-sonar"]
+	path = plugin-sonar
+	url = git://github.com/xp-forge/build-plugin-sonar.git
